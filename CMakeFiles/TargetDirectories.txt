@@ -1,0 +1,5 @@
+/home/voronin/Desktop/lab4_ak/CMakeFiles/edit_cache.dir
+/home/voronin/Desktop/lab4_ak/CMakeFiles/hello.dir
+/home/voronin/Desktop/lab4_ak/CMakeFiles/factorial.dir
+/home/voronin/Desktop/lab4_ak/CMakeFiles/rebuild_cache.dir
+/home/voronin/Desktop/lab4_ak/CMakeFiles/main.dir
